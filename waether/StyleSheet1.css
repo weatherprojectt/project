@@ -1,0 +1,129 @@
+﻿
+body {
+    min-height:100%!important;
+   height:100%!important;
+}
+.W-COLOR {
+    color: white;
+}
+
+.big-font {
+    font-size:100px;
+}
+
+.fz-35 {
+    font-size:35px;
+}
+
+.fz-30 {
+    font-size:30px;
+}
+
+.fz-20 {
+    font-size:20px;
+}
+
+.fz-14 {
+    font-size:14px;
+}
+
+.fz-22 {
+    font-size:22px;
+}
+
+
+
+
+
+.ME-1 {
+    margin-bottom:10%;
+}
+
+.arowDiv {
+   margin-right:10%;
+}
+
+
+.c1 {
+   margin-left:20%;margin-top:5%;
+}
+
+
+.c2 {
+   background-color: rgba(255, 250, 250, 0.1);
+   width:80%;
+   height:100%;
+}
+
+.lh-15 {
+ line-height:15px;
+}
+
+.lh-25 {
+ line-height:25px;
+}
+
+.lh-35 {
+ line-height:35px;
+}
+
+.margin-10 {
+    margin:10%;
+}
+
+ input{
+     height:40px;
+      width:100%; 
+      background: url('images/icons8-search-30.png')no-repeat;
+      display: block;
+      background-color:white;
+ }
+
+ @media (min-width: 320px) and (max-width: 1024px) {
+  
+.big-font {
+  
+   font-size:40px;
+}
+
+.c2 {
+   background-color: rgba(255, 250, 250, 0.1);
+   width:150%;
+   height:100%;
+
+
+}
+
+.fz-35 {
+    font-size:17px;
+   
+}
+ .c1 {
+   margin-left:30%;margin-top:10%;
+} 
+
+ .fz-20 {
+    font-size:14px;
+}
+
+  .fz-30 {
+    font-size:14px;
+}
+
+    .fz-22 {
+    font-size:16px;
+}
+  
+.lh-25 {
+ line-height:5px;
+
+}
+
+.margin-10 {
+    margin:1%;
+}
+
+.fz-14 {
+    font-size:12px;
+}
+}
